@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contanier{
+    padding:0 10rem;
+}
+.header-all{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.center{
+    margin-left:30rem;
+}
+.img1 img{
+    width: 50%;
+  margin-left: 60px;
+  cursor:pointer;
+}
+.icon span{
+    font-style:italic;
+    font-size:12px;
+}
+.dinamic span{
+    color:red;
+   
+}
+.dinamic {
+margin-left:50px;
+padding: 200px;
+
+}
+.dinamic h3{
+font-size: 50px;
+}
